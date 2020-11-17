@@ -1,0 +1,17 @@
+V1.0.0: Added fine adjustment of Z-axis lift during printing, each adjustment is 0.01mm.
+        New version number
+        New setting interface optimization
+        New screen is hibernation
+        New upgrade brief interface
+        Added double-click home switch
+        Added touch screen calibration
+        Added double X mode
+       
+        Fix the problem that the speed setting of the extruder is not used
+        Fix the problem that may pause during printing
+        Fix the problem that the file printer does not run after preheating before printing
+        Repair temperature analysis, reconstruct temperature analysis, temperature display is more stable
+        Fix the abnormal problem of the 4.3-inch preview interface, and replace the 4.3-inch display picture when there is no preview picture
+        Fix the problem that the firmware setting cannot display E-axis pulse and maximum speed. And fix the problem that the screen modification pulse and other parameters cannot be saved when the firmware does not open the EEPROM
+        Fix the problem that the percentage shows 99% after printing is completed
+        Fix some UI display abnormal issues
