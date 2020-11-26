@@ -5,4 +5,3 @@ V1.0.0: Added fine adjustment of Z-axis lift during printing, each adjustment is
         Added update firmware instructions
 
         Fix the bug of extruder adjustment speed
-        Hide some Chinese displays
