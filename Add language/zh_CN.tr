@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="HOME">归位</string>
+    <string name="Moto Stop">停止</string>
+    <string name="Home All">全部归位</string>
+    
+    <string name="Heating">加热</string>
+    <string name="Nozzle                            Bed">  喷头                           热床</string>
+    <string name="Nozzle0">喷头0</string>   
+    <string name="Nozzle1">喷头1</string>
+    <string name="Nozzle2">喷头2</string>
+    <string name="Nozzle3">喷头3</string>
+    <string name="Nozzle4">喷头4</string>
+    <string name="Nozzle5">喷头5</string>
+    <string name="Nozzle6">喷头6</string>
+    
+    <string name="Print">打印</string>
+    <string name="Onboard">主板SD</string>
+   <string name="Screen sd">屏幕SD</string>
+   <string name="U disk">U 盘</string>
+    <string name="Macros">宏命令</string>
+    <string name="Are you sure you need to print?">确认需要打印？</string>
+<string name="Ordinary">普通</string>   
+<string name="Mirror">镜像</string>   
+<string name="Copy">复制</string>   
+    <string name="Print">打印</string>
+    <string name="Cancel">取消</string>
+    <string name="Print Time：">打印时间</string>
+    <string name="Pause">暂停</string>
+    <string name="continue">继续</string>
+    <string name="End Shutdown">完成关机</string>
+    <string name="       Preview          Settings">预览              参数 </string>
+    <string name="Bed Temp">热床温度</string>
+    <string name="Fan Speed">风扇速度</string>
+    <string name="Nozzle Temp">喷嘴温度</string>
+    <string name="Print speed">打印速度</string>
+    
+    <string name="Move">移动</string>
+    <string name="Movement">移动</string>
+    <string name="Extruder">挤出</string>
+    <string name="Cool  extrusion">冷挤出</string> 
+    <string name="LOW Speed">低速</string>
+    <string name="Medium">常速</string>
+    <string name="HIGH Speed">高速</string>
+
+    <string name="More">更多</string> 
+    <string name="Leveling">调平</string>
+    <string name="Z Lift">Z抬升</string>
+    <string name="Z Trigger value">Z触发值</string>
+    <string name="storepos">储存成功，请松开按键</string>
+    <string name="storepos?">先将喷头移动到指定地点，然后长按对应的按钮3S，就会自动保存当前坐标点</string>
+   
+    <string name="parameter">参数</string>
+
+    <string name="Firmware setting">固件设置</string>
+    <string name="storeclear">已清除设置</string>
+    <string name="store?">修改参数后，参数会自动储存到屏幕内存中，marlin程序开机/屏幕开机后，会自动发送已储存的参数。&#x000A;即使marlin程序没有开启EEPROM功能，依就可以实现此功能。&#x000A;但不能保证100%成功，建议开启marlin的EEPROM功能</string>  
+
+
+    <string name="Drive step">驱动脉冲</string>
+    <string name="Max speed">最大速度</string>
+    <string name="Max acceleration">最大加速度</string>
+    <string name="Start acceleration">启动加速度</string>
+    <string name="Heating Pid">加热PID</string>
+    <string name="Tmc drive circuit">TMC驱动电流</string>
+     <string name="XYZ offset">探针偏移</string>
+
+    <string name="Screen setting">屏幕设置</string>
+    <string name="Power-on password">开机密码</string>
+    <string name="Click here to send order">发送命令请点击这里</string>
+    <string name="Save">保存</string>
+    <string name="multi touch">多点触控</string>
+    <string name="Double-click home">双击归位</string>
+    <string name="Double-click home:open">双击归位:开</string>
+    <string name="Double-click home:close">双击归位:关</string>
+    <string name="Tap interval(ms)">敲击间隔(ms)</string>
+    <string name="Touch calibration">触摸校准</string>
+    <string name="Brightness：">亮度：</string>
+    <string name="Sleep overtime">超时息屏</string>
+    <string name="10S">10S</string>
+    <string name="30S">30S</string>
+    <string name="1minute">1minute</string>
+    <string name="2minute">2minute</string>
+    <string name="5minute">5minute</string>
+    <string name="30minute">30minute</string>
+    <string name="1hour">1hour</string>
+    <string name="Double X mode close">双X模式：关</string>
+    <string name="Double X mode:close">双X模式：关</string>
+    <string name="Double X mode:open">双X模式：开</string>
+    
+    
+    
+    <string name="password">密码</string>
+    <string name="display">显示</string>
+    <string name="Double X">双X</string>
+    <string name="multi touch">多点触控</string>
+    <string name="language">语言</string>
+    <string name="upgrade">升级</string>
+    <string name="Upgrade Instructions">请下载群文件对应屏幕尺寸的update.img,请删除update.img前面的内容,然后放入sd卡根目录,插入屏幕就会弹出升级界面。</string>
+    
+    
+    <string name="Please click to enter the power-on password">请输入开机密码</string>
+    <string name="Confirm">确认</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

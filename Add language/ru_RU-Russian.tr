@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="HOME">БАЗА</string>
+<string name="Moto Stop">Мотор Стоп</string>
+<string name="Home All">Оси в Ноль</string>
+
+<string name="Heating">НАГРЕВ</string>
+<string name="Nozzle                            Bed">Сопло                       Стол</string>
+<string name="Nozzle0">Сопло_0</string>
+<string name="Nozzle1">Сопло_1</string>
+<string name="Nozzle2">Сопло_2</string>
+<string name="Nozzle3">Сопло_3</string>
+<string name="Nozzle4">Сопло_4</string>
+<string name="Nozzle5">Сопло_5</string>
+<string name="Nozzle6">Сопло_6</string>
+
+<string name="Print">ПЕЧАТЬ</string>
+<string name="Onboard">С платы</string>
+<string name="Screen sd">Screen sd</string>
+<string name="U disk">U disk</string>
+<string name="Macros">Macros</string>
+<string name="Are you sure you need to print?">Are you sure you need to print?</string>
+<string name="Ordinary">Ordinary</string>   
+<string name="Mirror">Mirror</string>   
+<string name="Copy">Copy</string>   
+<string name="Print">Print</string>
+<string name="Cancel">Cancel</string>
+<string name="Print Time：">Print Time：</string>
+<string name="Pause">Pause</string>
+<string name="continue">continue</string>
+<string name="End Shutdown">End Shutdown</string>
+<string name="       Preview          Settings">Preview          Settings</string>
+<string name="Bed Temp">Bed Temp</string>
+<string name="Fan Speed">Fan Speed</string>
+<string name="Nozzle Temp">Nozzle Temp</string>
+<string name="Print speed">Print speed</string>
+
+<string name="Move">ДВИГАТЬ</string>
+<string name="Movement">Движение</string>
+<string name="Extruder">Экструдер</string>
+<string name="Cool  extrusion">Cool extrusion</string>
+<string name="LOW Speed">Быстрая Подача</string>
+<string name="Medium">Medium</string>
+<string name="HIGH Speed">Малая Подача</string>
+
+<string name="More">Еще</string>
+<string name="Leveling">Выравнивание</string>
+<string name="Z Lift">Z Lift</string>
+<string name="Z Trigger value">Z Trigger value</string>
+<string name="storepos">Saved successfully, please release the button</string>
+<string name="storepos?">First move the print head to the designated location, and then long press the corresponding button for 3S, it will automatically save the current coordinate point</string>
+
+<string name="parameter">Параметры</string>
+
+<string name="Firmware setting">Параметры Прошивки</string>
+<string name="storeclear">Settings cleared</string>
+<string name="store?">After modifying the parameters, the parameters will be stored in the screen memory. After the marlin program is turned on/the screen is turned on, the stored parameters will be automatically sent. &#x000A; Even if the marlin program does not enable the EEPROM function, this function can be realized. &#x000A; But 100% success cannot be guaranteed. It is recommended to enable marlin's EEPROM function</string>  
+
+
+<string name="Drive step">Drive step</string>
+<string name="Max speed">Max speed</string>
+<string name="Max acceleration">Max acceleration</string>
+<string name="Start acceleration">Start acceleration</string>
+<string name="Heating Pid">Heating Pid</string>
+<string name="Tmc drive circuit">Tmc drive circuit</string>
+<string name="XYZ offset">XYZ offset</string>
+    
+<string name="Screen setting">Screen setting</string>
+<string name="Power-on password">Power-on password</string>
+<string name="Click here to send order">Click here to send order</string>
+<string name="Save">Save</string>
+<string name="multi touch">мультитач</string>
+<string name="Double-click home">Double-click home</string>
+<string name="Double-click home:open">Double-click home:open</string>
+<string name="Double-click home:close">Double-click home:close</string>
+<string name="Tap interval(ms)">Tap interval(ms)</string>
+<string name="Touch calibration">Touch calibration</string>
+<string name="Brightness：">Яркость：</string>
+<string name="Sleep overtime">Sleep overtime</string>
+<string name="10S">10S</string>
+<string name="30S">30S</string>
+<string name="1minute">1minute</string>
+<string name="2minute">2minute</string>
+<string name="5minute">5minute</string>
+<string name="30minute">30minute</string>
+<string name="1hour">1hour</string>
+<string name="Double X mode close">Double X mode:close</string>
+<string name="Double X mode:close">Double X mode:close</string>
+<string name="Double X mode:open">Double X mode:open</string>
+
+<string name="password">пароль</string>
+<string name="display">дисплей</string>
+<string name="Double X">Double X</string>
+<string name="multi touc">мультитач</string>
+<string name="language">язык</string>
+<string name="upgrade">Обновить</string>
+<string name="Upgrade Instructions">Scan the QR code to get the github connection, download the corresponding Updata.img and put it into the root directory of the sd card, and insert it on the screen to upgrade</string>
+
+
+<string name="Please click to enter the power-on password">Please click to enter the power-on password</string>
+<string name="Confirm">Confirm</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

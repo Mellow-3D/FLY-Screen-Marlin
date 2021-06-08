@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="HOME">HOME</string>
+<string name="Moto Stop">Motor Stop</string>
+<string name="Home All">Home All</string>
+
+<string name="Heating">Heizen</string>
+<string name="Nozzle                            Bed">Nozzle                       Bett</string>
+<string name="Nozzle0">Nozzle0</string>
+<string name="Nozzle1">Nozzle1</string>
+<string name="Nozzle2">Nozzle2</string>
+<string name="Nozzle3">Nozzle3</string>
+<string name="Nozzle4">Nozzle4</string>
+<string name="Nozzle5">Nozzle5</string>
+<string name="Nozzle6">Nozzle6</string>
+
+<string name="Print">Drucken</string>
+<string name="Onboard">Onboard</string>
+<string name="Screen sd">Display SD</string>
+<string name="U disk">USB</string>
+<string name="Macros">Macros</string>
+<string name="Are you sure you need to print?">Jetzt drucken?</string>
+<string name="Ordinary">Normal</string>   
+<string name="Mirror">Spiegeln</string>   
+<string name="Copy">Kopieren</string>   
+<string name="Print">Drucken</string>
+<string name="Cancel">Abbruch</string>
+<string name="Print Time：">Druckzeit：</string>
+<string name="Pause">Pause</string>
+<string name="continue">Fortsetzen</string>
+<string name="End Shutdown">Herunterfahren</string>
+<string name="       Preview          Settings">Vorschau Einstellungen</string>
+<string name="Bed Temp">Bett Temp</string>
+<string name="Fan Speed">Fan Speed</string>
+<string name="Nozzle Temp">Nozzle Temp</string>
+<string name="Print Speed">Print Speed</string>
+
+<string name="Move">Motion</string>
+<string name="Movement">Bewegen</string>
+<string name="Extruder">Extruder</string>
+<string name="Cool  extrusion">Kalte Extrusion</string>
+<string name="Low Speed">Langsam</string>
+<string name="Medium">Mittel</string>
+<string name="High Speed">Schnell</string>
+
+<string name="More">Mehr</string>
+<string name="Leveling">Leveling</string>
+<string name="Z Lift">Z Hebung</string>
+<string name="Probe Trigger Wert">Z Trigger Value</string>
+<string name="whtpjc">Bewege den Druckkopf zur Mitte und führe die Probe aus, dann drücke 3 Sekunden auf Z-Trigger-Value und der Wert wird gespeichert</string>
+<string name="storepos?">First move the print head to the designated location, and then long press the corresponding button for 3S, it will automatically save the current coordinate point</string>
+    
+<string name="parameter">Einstellungen</string>
+
+<string name="Firmware setting">Firmwareeinstellungen </string>
+<string name="storeclear">Reset Einst.</string>
+<string name="store?">After modifying the parameters, the parameters will be stored in the screen memory. After the marlin program is turned on/the screen is turned on, the stored parameters will be automatically sent. &#x000A; Even if the marlin program does not enable the EEPROM function, this function can be realized. &#x000A; But 100% success cannot be guaranteed. It is recommended to enable marlin's EEPROM function</string>  
+
+
+<string name="Drive step">Drive Step</string>
+<string name="Max speed">Max Speed</string>
+<string name="Max acceleration">Max Acceleration</string>
+<string name="Start acceleration">Start Acceleration</string>
+<string name="Heating Pid">PID Tuning</string>
+<string name="Tmc drive circuit">TMC Drive Circuit</string>
+<string name="XYZ offset">XYZ offset</string>
+
+<string name="Screen setting">Screen set</string>
+<string name="Power-on password">Power-On-Passwort</string>
+<string name="Click here to send order">Hier drücken um Befehl zu senden</string>
+<string name="Save">Speichern</string>
+<string name="multi touch">Multi Touch</string>
+<string name="Double-click home">Doppelklick Home</string>
+<string name="Double-click home:open">Doppelklick Home:Open</string>
+<string name="Double-click home:close">Doppelklick Home:Close</string>
+<string name="Tap interval(ms)">Tap Interval(ms)</string>
+<string name="Touch calibration">Touchkalibrierung</string>
+<string name="Brightness：">Helligkeit：</string>
+<string name="Sleep overtime">Standby aktivieren</string>
+<string name="10S">10 Sekunden</string>
+<string name="30S">30 Sekunden</string>
+<string name="1minute">1 Minute</string>
+<string name="2minute">2 Minuten</string>
+<string name="5minute">5 Minuten</string>
+<string name="30minute">30 Minuten</string>
+<string name="1hour">1 Stunde</string>
+<string name="Double X mode close">Double X mode:close</string>
+<string name="Double X mode:close">Double X mode:close</string>
+<string name="Double X mode:open">Double X mode:open</string>
+
+<string name="password">Passwort</string>
+<string name="display">Display</string>
+<string name="Double X">IDEX</string>
+<string name="multi touc">Multi Touch</string>
+<string name="language">Sprache</string>
+<string name="upgrade">Upgrade</string>
+<string name="Upgrade Instructions">Scan the QR code to get the github connection, download the corresponding Updata.img and put it into the root directory of the sd card, and insert it on the screen to upgrade</string>
+
+
+<string name="Please click to enter the power-on password">Drücke um das Passwort einzugeben</string>
+<string name="Confirm">Bestätigen</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
