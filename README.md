@@ -1,5 +1,9 @@
 # FLY-Screen
 
+The Fly-Screen for Marlin can be purchased here https://s.click.aliexpress.com/e/_DmpNwFr
+
+This link is affiliated URL. If you purchase via link above it will give tiny cent of commission to the community organizers. (We are not Mellow employees, just 3D printer enthusiasts) This will not hurt your wallet and at the same time help us to maintain the GitHub better.
+
 ## Marlin 
 
 firmware, you only need to set the baud rate to 115200 to communicate with the screen
